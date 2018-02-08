@@ -1,0 +1,18 @@
+{
+    "dir": "ltr",
+    "lang": "zh-cn",
+    "name": "Clean Blog",
+    "scope": "/",
+    "display": "standalone",
+    "start_url": "/",
+    "short_name": "Blog",
+    "theme_color": "transparent",
+    "description": "这是一个PWA博客系统",
+    "orientation": "any",
+    "background_color": "#000000",
+    "icons": [{
+        "src": "https://img.alicdn.com/tfs/TB1VlKFRpXXXXcNapXXXXXXXXXX-16-16.png",
+        "type": "image/png",
+        "sizes": "16x16"
+    }]
+}
